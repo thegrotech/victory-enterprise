@@ -26,12 +26,11 @@ export function SiteFooter() {
         <div className="grid gap-10 md:grid-cols-4">
           <div className="md:col-span-1">
             <div className="flex items-center gap-2">
-              <span <img
+              <img
     src="/victory-enterprises-logo.jpeg"
     alt="Victory Enterprises"
     className="h-10 w-auto shrink-0 rounded-lg object-contain"
   />
-              </span>
               <span className="text-sm font-bold tracking-tight">
                 VICTORY ENTERPRISES
               </span>
