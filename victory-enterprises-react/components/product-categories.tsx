@@ -78,7 +78,7 @@ export function ProductCategories() {
                   {cat.items.map((item) => (
                     <li
                       key={item}
-                      className="rounded-full bg-muted px-3 py-1 text-xs font-medium text-secondary"
+                      className="rounded-full bg-muted px-3 py-1 text-xs font-medium text-foreground"
                     >
                       {item}
                     </li>
