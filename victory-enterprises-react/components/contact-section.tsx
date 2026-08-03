@@ -190,7 +190,7 @@ export function ContactSection() {
               </span>
               <div>
                 <p className="text-sm font-bold text-secondary">WhatsApp</p>
-                <p className="text-sm text-muted-foreground">0318 0033899</p>
+                <p className="text-sm text-muted-foreground">0336 8631744</p>
               </div>
             </a>
 
@@ -203,7 +203,7 @@ export function ContactSection() {
               </span>
               <div>
                 <p className="text-sm font-bold text-secondary">Call Us</p>
-                <p className="text-sm text-muted-foreground">0318 0033899</p>
+                <p className="text-sm text-muted-foreground">0336 8631744</p>
               </div>
             </a>
           </div>
