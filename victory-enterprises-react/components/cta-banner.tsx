@@ -33,7 +33,7 @@ export function CtaBanner() {
               className="inline-flex h-14 items-center justify-center gap-2 rounded-2xl border border-teal-foreground/25 bg-teal-foreground/5 px-6 text-base font-semibold text-teal-foreground transition-colors active:bg-teal-foreground/15"
             >
               <Phone className="h-5 w-5" aria-hidden="true" />
-              0318 0033899
+              0336 8631744
             </a>
           </div>
         </div>
