@@ -90,7 +90,7 @@ export function SiteFooter() {
                   href="tel:03368631744"
                   className="text-sm text-teal-foreground/75 transition-colors hover:text-teal-foreground"
                 >
-                  0318 0033899
+                  0336 8631744
                 </a>
               </li>
               <li className="flex items-center gap-3">
