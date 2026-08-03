@@ -189,7 +189,7 @@ export function ContactSection() {
                 <MessageCircle className="h-5 w-5" aria-hidden="true" />
               </span>
               <div>
-                <p className="text-sm font-bold text-secondary">WhatsApp</p>
+                <p className="text-sm font-bold text-foreground">WhatsApp</p>
                 <p className="text-sm text-muted-foreground">0336 8631744</p>
               </div>
             </a>
@@ -202,7 +202,7 @@ export function ContactSection() {
                 <Phone className="h-5 w-5" aria-hidden="true" />
               </span>
               <div>
-                <p className="text-sm font-bold text-secondary">Call Us</p>
+                <p className="text-sm font-bold text-foreground">Call Us</p>
                 <p className="text-sm text-muted-foreground">0336 8631744</p>
               </div>
             </a>
