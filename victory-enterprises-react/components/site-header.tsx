@@ -16,9 +16,11 @@ export function SiteHeader() {
     <header className="sticky top-0 z-50 border-b border-teal-muted/40 bg-teal/95 backdrop-blur supports-[backdrop-filter]:bg-teal/80">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-3 px-4">
         <a href="#top" className="flex items-center gap-3">
-          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-primary text-sm font-extrabold tracking-tight text-primary-foreground shadow-lg shadow-primary/30">
-            VE
-          </div>
+          <img
+    src="/victory-enterprises-logo.jpeg"
+    alt="Victory Enterprises"
+    className="h-10 w-auto shrink-0 rounded-lg object-contain"
+  />
           <div className="leading-tight">
             <p className="text-sm font-bold tracking-tight text-teal-foreground sm:text-base">
               VICTORY ENTERPRISES
