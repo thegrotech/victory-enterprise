@@ -26,15 +26,15 @@ export function SiteFooter() {
         <div className="grid gap-10 md:grid-cols-4">
           <div className="md:col-span-1">
             <div className="flex items-center gap-2">
-              <img
+  <span className="text-sm font-bold tracking-tight">
+    VICTORY ENTERPRISES
+  </span>
+  <img
     src="/victory-enterprises-logo.jpeg"
     alt="Victory Enterprises"
     className="h-10 w-auto shrink-0 rounded-lg object-contain"
   />
-              <span className="text-sm font-bold tracking-tight">
-                VICTORY ENTERPRISES
-              </span>
-            </div>
+</div>
             <p className="mt-4 text-sm leading-relaxed text-teal-foreground/70">
               Custom packaging &amp; printing factory serving FMCG, pharma,
               cosmetics and e-commerce brands since 2002.
